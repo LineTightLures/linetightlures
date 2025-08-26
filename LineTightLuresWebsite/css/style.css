@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf6ec; /* sandy neutral */
+    color: #2c3e50;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #a8dadc; /* water blue */
+    padding: 20px;
+    text-align: center;
+}
+header img {
+    max-height: 100px;
+}
+h1 {
+    color: #1d3557; /* deep water blue */
+}
+section {
+    padding: 20px;
+}
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #e0f7e9; /* natural green tint */
+}
+footer {
+    background-color: #a8dadc;
+    text-align: center;
+    padding: 10px;
+}
